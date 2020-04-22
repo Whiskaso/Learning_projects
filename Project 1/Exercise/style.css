@@ -1,0 +1,14 @@
+button {
+    border: 2px dotted #000;
+    background-color: #fff;
+
+    font-size: 1.6em;
+
+    display: block;
+    padding: 10px 20px;
+    margin: 10px auto;
+}
+
+.big {
+    font-size: 1.4em;
+}

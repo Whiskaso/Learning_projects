@@ -1,0 +1,29 @@
+button {
+    border: 2px dotted #000;
+    background-color: #fff;
+
+    font-size: 1.6em;
+
+    display: block;
+    padding: 10px 20px;
+    margin: 10px auto;
+}
+
+div {
+    width: 30px;
+    height: 30px;
+    background-color: #000;
+    margin: 5px;
+    float: left;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    border: 2px solid #000;
+}
+
+.circle {
+    border-radius: 50%;
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #000;
+}
